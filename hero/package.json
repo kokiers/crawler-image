@@ -1,0 +1,10 @@
+{
+  "name": "crawler-msg",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node hero.js"
+  },
+  "dependencies": {
+    "puppeteer-core": "^20.4.0"
+  }
+}
